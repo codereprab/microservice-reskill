@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ibm.learning</groupId>
-	<artifactId>currency-conversion-service</artifactId>
+	<artifactId>manage-currency-conversion-factor-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>manage-currency-conversion-factor-service</name>
 	<description>manage-currency-conversion-factor-service</description>
